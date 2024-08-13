@@ -35,9 +35,9 @@ Saya adalah mahasiswa semester 3 di Politeknik Negeri Jember, jurusan Teknik Inf
 
 ## Kontak
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** mdvitoah@gmail.com
+- **LinkedIn:** kedin.com/in/m-dien-vito/
+- **GitHub:** https://github.com/arallel
 
 Saya selalu terbuka untuk belajar hal baru dan berkolaborasi dalam proyek-proyek yang menarik. Jangan ragu untuk menghubungi saya melalui email atau media sosial.
 
